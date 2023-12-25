@@ -1,7 +1,5 @@
 ## Project Bilal 
 
-#### Releast Date
-December 2024
 
 #### What is Project Bilal
 A vision of every Muslim home leveraging smart speakers to play the athan throughout the home.  By configuring the Bilal Companion App, Project Bilal will calculate prayer times, and trigger automated athans to play at their respective times. 
@@ -23,22 +21,14 @@ Project Bilal is 100% non-profit purely for the sake of Allah ﷻ. All Project B
 * Alexa Speakers
 * Sonos Speakers
 
-
-#### Want to help?
-We are still in early development. We are looking for volunteers for:
-* Graphic design logos/images used throughout the app and website
-* Help currate and organize Athans, Athkar and Quran audio files
-* Developers - Python, Alexa Skills and React Native 
  
 
 #### Contact Us
 
 info@projectbilal.com
 
-
-
-
 ---
 
 **Made by Muslims with ❤️**
+
 [GitHub](https://github.com/Project-Bilal)
