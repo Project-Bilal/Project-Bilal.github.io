@@ -1,6 +1,6 @@
 ### Welcome to Project Bilal: Revolutionizing Prayer Time in Your Home
 #### Our Vision
-Project Bilal innovatively merges the Islamic call to prayer (Athan) with modern smart speaker technology in Muslim homes. By leveraging existing smart speakers, the Bilal device accurately calculates and initiates the Athan at the right times. This cloud-based solution offers customization options like choosing specific Athans and setting preferred pre-Athan alerts, ensuring a personalized and timely prayer experience.
+Project Bilal brings the Islamic call to prayer (Athan) to modern smart speaker technology in Muslim homes. By leveraging existing smart speakers, the Bilal device accurately calculates and initiates the Athan at the right times. This cloud-based solution offers customization options like choosing specific Athans and setting preferred pre-Athan alerts, ensuring a personalized and timely prayer experience.
 
 ####A Commitment to Faith and Community
 At the heart of Project Bilal is a dedication to serve operating entirely as a non-profit initiative.Our devices are offered strictly at cost, ensuring that our efforts are a purely for the sake of Allah ﷻ.
