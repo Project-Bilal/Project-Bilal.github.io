@@ -13,7 +13,7 @@ Project Bilal is 100% non-profit purely for the sake of Allah ﷻ. All Project B
   * Selection of different Athans from around the world
   * Selection of athkar and Ayat of Quran to play daily
   * Athan reminders (example: 10 minutes before next salah)
-  * All controlled and manged by the app
+  * All controlled and managed by the app
   * **No personal data sold or shared**
   
 #### Possible Speakers
