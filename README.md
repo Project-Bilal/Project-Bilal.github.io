@@ -6,12 +6,19 @@ Project Bilal brings the Islamic call to prayer (Athan) to modern smart speaker 
 At the heart of Project Bilal is a dedication to serve operating entirely as a non-profit initiative.Our devices are offered strictly at cost, ensuring that our efforts are a purely for the sake of Allah ﷻ.
 
 #### Key Features
+
 **Precision and Harmony:** Exact athan timings aligned with your location.
+
 **Global Echoes:** A diverse selection of athans from across the world.
+
 **Daily Spiritual Nourishment:** Regular Athkar and Quranic Ayat playback.
+
 **Mindful Reminders:** Customizable alerts for upcoming Salah times.
+
 **Seamless Control:** Everything managed effortlessly through our app.
+
 **Privacy First:** Your personal data remains yours. We neither sell nor share it.
+
 #### Compatible Speakers
 Enhance your prayer experience with compatibility across various smart speakers:
 
