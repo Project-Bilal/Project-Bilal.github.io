@@ -3,6 +3,7 @@ description: Athan On Your Smart Speakers
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme 
-main_repo_url: https://github.com/Project-Bilal
-zip_url: https://github.com/Project-Bilal
-tar_url: https://github.com/Project-Bilal
+github:
+  main_repo_url: https://github.com/Project-Bilal
+  zip_url: https://github.com/Project-Bilal
+  tar_url: https://github.com/Project-Bilal
