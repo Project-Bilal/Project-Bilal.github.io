@@ -22,9 +22,3 @@ Project Bilal is 100% non-profit purely for the sake of Allah ﷻ. All Project B
 #### Contact Us
 
 info@projectbilal.com
-
----
-
-**Made by Muslims with ❤️**
-
-[GitHub](https://github.com/Project-Bilal)
