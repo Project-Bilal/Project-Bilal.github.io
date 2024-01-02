@@ -26,4 +26,4 @@ Enhance your prayer experience with compatibility across various smart speakers:
 * Sonos Speakers
   
 #### Join Us on This Journey
-Have questions or suggestions? Reach out to us at info@projectbilal.com and become a part of this blessed endeavor. Together, let's bring the call of prayer into every home.
+Have questions or suggestions? Reach out to us at companions@projectbilal.com and become a part of this blessed endeavor. Together, let's bring the call of prayer into every home.
